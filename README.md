@@ -1,9 +1,15 @@
 ##introduction
 
-안녕하세여?
+Hello, I'm Woo Young-min, who is programming in South Korea.
 
 ##Career
 
-영남대학교 컴퓨터공학과 재학
+A student of computer science at Yeungnam University.
 
-##Course
+##Available programming languages
+
+C,C++,PYTHON
+
+## a field of interest
+
+AI (artificial intelligence)

@@ -10,6 +10,6 @@ A student of computer science at Yeungnam University.
 
 C,C++,PYTHON
 
-##a field of interest
+##A field of interest
 
 AI (artificial intelligence)
